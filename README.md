@@ -1,3 +1,36 @@
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,12,18,24,30&text=Tanuja%20Narwade&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enthusiastic%20Software%20Engineer%20%7C%20Learning%20DSA%20%7C%20Web%20Developer%20%7C%20Coding%20Enthusiast&descAlignY=60"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=6495ED&center=true&vCenter=true&width=900&lines=Enthusiastic+About+Coding;B.Tech+CSE+Student;Learning+Java+%7C+C+%7C+Python;Building+Creative+Projects;Open+Source+Learner;Always+Learning+Something+New" />
+
+<br><br>
+
+![](https://img.shields.io/badge/B.Tech-CSE-9D4EDD?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20to-Internships-FF69B4?style=for-the-badge)
+
+<br>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Tanuja%20Narwade-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-9D4EDD?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
+
 # 💫 About me:
 Enthusiastic about Coding<br>Learning programming<br>B.Tech CSE Student<br>Good at HTML , CSS<br>Aspiring Software engineering
 
