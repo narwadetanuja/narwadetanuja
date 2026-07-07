@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=6495ED&center=true&vCenter=true&width=900&lines=Enthusiastic+About+Coding;B.Tech+CSE+Student;Learning+Java+%7C+C+%7C+Python;Building+Creative+Projects;Open+Source+Learner;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=6495ED&center=true&vCenter=true&width=900&lines=Enthusiastic+About+Coding;B.Tech+CSE+Student;Learning+Java+%7C+C+%7C+Python+%7C+C++;Building+Creative+Projects;Open+Source+Learner;Always+Learning+Something+New" />
 
 <br><br>
 
