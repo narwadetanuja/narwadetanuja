@@ -32,7 +32,7 @@
 </div>
 
 # 💫 About me:
-Enthusiastic about Coding<br>Learning programming<br>B.Tech CSE Student<br>Good at HTML , CSS<br>Aspiring Software engineering
+Enthusiastic about Coding<br>Learning programming<br>B.Tech CSE Student<br>Good at HTML , CSS<br>Aspiring Software engineering<br>Learning Something New.
 
 
 ## 🌐 Socials:
