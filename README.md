@@ -13,7 +13,7 @@
 
 <br>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/narwadetanuja">
 <img src="https://img.shields.io/badge/GitHub-Tanuja%20Narwade-181717?style=for-the-badge&logo=github"/>
 </a>
 
