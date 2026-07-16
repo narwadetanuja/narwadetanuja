@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/GitHub-Tanuja%20Narwade-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:narwadetanuu@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
