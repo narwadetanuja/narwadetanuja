@@ -13,16 +13,16 @@
 
 <br>
 
+<a href="https://linkedin.com/in/tanuja narwade-795828342">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
 <a href="https://github.com/narwadetanuja">
-<img src="https://img.shields.io/badge/GitHub-Tanuja%20Narwade-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:narwadetanuu@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/Tanuja narwade">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://YOUR_PORTFOLIO.vercel.app">
