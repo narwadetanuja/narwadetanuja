@@ -33,7 +33,6 @@
 * 🎓 B.Tech Computer Science & Engineering student
 * 💻 Aspiring Software Engineer
 * 🧠 Currently learning Data Structures & Algorithms
-* ☕ Learning and building projects with Java
 * 🌐 Interested in Web Development
 * 🐍 Exploring Python for programming and AI/ML
 * 💡 Passionate about problem solving and technology
